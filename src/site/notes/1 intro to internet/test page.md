@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-intro-to-internet/test-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-intro-to-internet/test-page/"}
 ---
 
 ![image design by Natalie Bachman](https://lcc-adm.github.io/web-foundations/1-intro-to-internet/images/bachman.jpg)

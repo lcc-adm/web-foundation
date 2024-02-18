@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/web-foundations/","tags":["gardenEntry"]}
 ---
 
-
 # WEB FOUNDATIONS
 
 This site serves as a simple foundation introduction to the internet and issues related to web design and development. Students were assigned different topics to research and explore. In addition to writing a short introduction to their topic, students were required to create a relevant illustration and include links to additional resources. Each student is credited on their individual page.
